@@ -1,7 +1,9 @@
 # Suyang Wang
 
-Researcher in sustainable maritime transport, green shipping corridors, inland waterway electrification, and AIS-based maritime analytics.
+Ph.D. candidate at Hohai University, working on sustainable waterway transportation and inland shipping decarbonization.
 
-I build reproducible data workflows, simulation experiments, and optimization models for transport and logistics research.
+My research connects AIS-based maritime data analysis, hydrodynamic numerical simulation, operations optimization, and policy-oriented evaluation for low-emission and resilient port-waterway systems.
 
-`Python` | `MATLAB` | `GIS` | `Optimization` | `Simulation` | `AIS`
+`AIS analytics` | `Hydrodynamic simulation` | `Optimization` | `Green ports` | `Inland shipping`
+
+[Homepage](https://wsy1011.github.io/) | [ORCID](https://orcid.org/0009-0002-8499-1181)
