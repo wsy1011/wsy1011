@@ -1,6 +1,6 @@
 # Suyang Wang
 
-Ph.D. candidate at Hohai University, working on sustainable waterway transportation and shipping decarbonization.
+Ph.D. student at Hohai University, working on sustainable waterway transportation and shipping decarbonization.
 
 My research connects AIS-based maritime data analysis, hydrodynamic numerical simulation, operations optimization, and policy-oriented evaluation for low-emission and resilient port-waterway systems.
 
